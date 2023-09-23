@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React,C++,Javascript**
 
-- 📫 How to reach me **vj7708152@gmail.com**
+- 📫 Reach me at  **vj7708152@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VKPlMCe7ZRkpk9O8CrE6ZeiBXOnQp8FW/view?usp=sharing](https://drive.google.com/file/d/1VKPlMCe7ZRkpk9O8CrE6ZeiBXOnQp8FW/view?usp=sharing)
 
