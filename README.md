@@ -8,7 +8,7 @@
 
 - 📫 MY Gmail  **vj7708152@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](http://tinyurl.com/yc82n3hp)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Nwj_LlUEWv23Yr-B_aa9-r5BOaGJ80yM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
