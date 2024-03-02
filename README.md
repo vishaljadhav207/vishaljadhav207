@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Jadhav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://react-portfolio-git-main-jadhavvishal4758-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://react-portfolio-vishal.vercel.app/)
 
 - 💬 Ask me about **React,C++,Javascript**
 
