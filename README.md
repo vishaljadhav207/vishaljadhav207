@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg](https://imgs.search.brave.com/lzXEmRaL03--GSYcc22EgVG7yML_a3L-M7XpIzRHbz4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2RldGFpbC85/ODEtOTgxMzE3NV9j/LWxvZ28tYy1wcm9n/cmFtbWluZy1sYW5n/dWFnZS1sb2dvLnBu/Zw)" height="40" alt="c++ logo"  />
+  <img src="https://imgs.search.brave.com/lzXEmRaL03--GSYcc22EgVG7yML_a3L-M7XpIzRHbz4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2RldGFpbC85/ODEtOTgxMzE3NV9j/LWxvZ28tYy1wcm9n/cmFtbWluZy1sYW5n/dWFnZS1sb2dvLnBu/Zw" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
