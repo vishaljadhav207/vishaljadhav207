@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,Springboot**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-vishal.vercel.app/](https://react-portfolio-vishal.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://react-portfolio-vishal.vercel.app/)
 
 - 💬 Ask me about **javascript,reactjs,nextjs**
 
