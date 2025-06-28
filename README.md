@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://react-portfolio-vishal.vercel.app/)
 
-- 💬 Ask me about **javascript,reactjs,nextjs**
+- 💬 Ask me about **Javascript,Reactjs,Java SpringBoot,NodeJS**
 
 - 📫 How to reach me **vj7708152@gmail.com**
 
