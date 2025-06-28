@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Java,Springboot**
+- 🌱 I’m currently learning **AIML**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://react-portfolio-vishal.vercel.app/)
 
